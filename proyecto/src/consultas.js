@@ -54,7 +54,7 @@ db.restaurante.aggregate([
 { "_id" : "Ensalada clásica", "costeElaboracion" : 105 }*/
 
 /* 
-    3ª consulta: 
+    2ª consulta: 
     Averigua los ingredientes que caducarán en el próximo mes, y como de urgente es reponerlos en función del número de platos que necesiten
     dicho ingrediente.
 */
